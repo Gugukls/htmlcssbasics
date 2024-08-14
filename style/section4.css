@@ -1,0 +1,91 @@
+body {
+    background-color: #f3e9ff;
+    font-family: 'Roboto';
+}
+
+header{
+    text-align: center;
+}
+
+header img {
+    width: 300px;
+}
+
+main {
+    background-color: #774ad8;
+    color: #f3e9ff;
+    margin: 50px auto 20px auto;
+    align-items: center;
+    width: 700px;
+    padding: 32px;
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: 48px;
+    color: #6333c9;
+}
+
+h2 {
+    color: white;
+    font-size: 24px;
+}
+
+ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin: 14px 0;
+    padding: 3px;
+    padding-left: 10px;
+    border-left: 5px solid transparent;
+
+}
+
+.highlight-list {
+    color: #f4d556;
+    border-left: 5px solid #f9c927;
+}
+/* 
+.higlight-dont {
+    font-weight: bold;
+} */
+
+.download-pdf {
+    margin: 30px auto 30px auto;
+    background-color: #f9c927;
+    text-align: center;
+    color: rgb(35, 35, 35);
+    width: 250px;
+    padding: 15px 0 15px 0;
+    border-radius: 8px;
+}
+
+a {
+   text-decoration: none;
+}
+
+main a {
+    background-color: #f3e29e;
+    padding: 3px 8px;
+    border-radius: 3px;
+    color: #4516a9;
+}
+
+a:hover, a:active {
+    text-decoration: underline;
+    background-color: #f9c927;
+}
+
+footer p {
+    color: rgb(127, 127, 127);
+    margin-bottom: 50px;
+    text-align: center;
+}
+/*   
+ol p {
+    padding: 0px;
+   } */
